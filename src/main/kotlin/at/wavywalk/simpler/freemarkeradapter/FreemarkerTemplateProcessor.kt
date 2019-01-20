@@ -1,4 +1,4 @@
-package at.wavywalk.simplerfreemarkeradapter
+package at.wavywalk.simpler.freemarkeradapter
 
 import at.wavywalk.simpler.templating.ITemplateProcessor
 import freemarker.template.Configuration

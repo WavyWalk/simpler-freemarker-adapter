@@ -1,4 +1,2 @@
 rootProject.name = 'simpler-freemarker-adapter'
 
-include ':simpler'
-project(':simpler').projectDir = new File(settingsDir, "../simpler")
